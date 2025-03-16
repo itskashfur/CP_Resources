@@ -1,4 +1,3 @@
-# CP_Resources
 # Competitive Programming Resources (2025 Updated)
 
 ## 📌 Table of Contents
